@@ -40,7 +40,6 @@
 
 
  <a href="https://github.com/tharan26">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tharan26&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharan26&theme=buefy&layout=compact" />
 </a>
 
