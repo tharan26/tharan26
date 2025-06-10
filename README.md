@@ -1,7 +1,7 @@
 <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 <h1 align="center">Hi , I'm Tharan</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Tech%20Enthusiast;UI/UX%20Designer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Tester;Tech%20Enthusiast;UI/UX%20Designer;&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharan26&label=Profile%20views&color=0e75b6&style=flat" alt="tharan26" /> </p>
