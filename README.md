@@ -6,8 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharan26&label=Profile%20views&color=0e75b6&style=flat" alt="tharan26" /> </p>
 
-<h3 align="left">My Topic</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharan26"><img src="https://img.shields.io/badge/-Tharan26-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
